@@ -24,4 +24,14 @@
 	background-color: #9575cd;
 	color: floralwhite;
 }
+.colum{
+	transition-property: background, border-radius;
+  	transition-duration: 1s;
+  	transition-timing-function: linear;
+}
+.colum:hover{
+	background-color: rgb(118, 118, 175);
+	border-radius: 18px;
+	color: floralwhite;
+}
 
